@@ -1,0 +1,35 @@
+.page1{
+    height: 100vh;
+    background-color: #f8f9fa;
+}
+
+.page2,.page3,.page4{
+    padding: 90px 0 90px 0;
+    background-color: #f8f9fa;
+}
+
+.page5{
+    background: #f5f7fc;
+    padding: 90px 0 70px 0;
+}
+
+.headline h1{
+    margin-bottom: 20px;
+}
+
+
+form{
+    box-shadow: 3px 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.box1{
+    width: 16.6666666667%;
+}
+
+.box1img{
+    box-shadow: rgba(33,33,33,.06) 0 4px 24px 5px;
+}
+
+.width-100{
+    width: 100%;
+}
